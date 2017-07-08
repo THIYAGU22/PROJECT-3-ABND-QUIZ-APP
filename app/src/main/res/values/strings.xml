@@ -1,0 +1,13 @@
+<resources>
+
+    <!-- questions are updated as a bunch in strings -->
+    <string name="app_name">CRIC QUIZZZZ</string>
+    <string name="question_1">1.Which player has maximum number of one day ducks?</string>
+    <string name="question_2">2. Which player has scored the fastest century?</string>
+    <string name="question_3">3. Who with 20 wickets was the top bowler of the 1999 World Cup?</string>
+    <string name="question_4">4. Who was the first bowler to pick a one day hat-trick?</string>
+    <string name="question_5">5. Who holds the record for most One Day International wickets?</string>
+    <string name="question_6">6. Who holds the record for most nineties in career</string>
+
+</resources>
+
